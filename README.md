@@ -1,1 +1,1 @@
-# tailwind-2
+# tailwind-project-1
